@@ -1,0 +1,16 @@
+Jag hade tänkt göra ett ganska så basic dungeon crawler spel där man utforskar grottor och samlar på sig en massa lot.
+
+Grottorna ska vara handgjorda. Spelet ska int vara textbaserat utan det ska finnas en grafisk layout. Jag hade tänkt att grafiken skulle 
+påminna lite om ett D&D karta. Beronde om jag kan fixa en grafiker så kanske det kommer finnas grafiska representationer av fienderna.
+
+Jag har inte kommit på helt och hållet änn hur mitt combat system men jag hade tänkt turn baserat(påminande om Final Fantasy).
+
+TODO:
+
+1. göra en layout gränsnitet
+
+2. Rita ut en basic map och sen se till så att spelaren kan röra sig i den(det kommer att vara tile baserat)
+
+3. fixa ett combat system
+
+... 
